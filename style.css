@@ -1,0 +1,32 @@
+.copy_right_footer 
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+html, header 
+{
+    height: 100%;
+    margin: 0;
+}
+
+body 
+{
+    background:  #90ffd6;
+}
+
+header
+{
+    color: rgb(0, 174, 128);
+}
+
+img
+{
+    box-shadow: 10px 6px 8px black;
+}
+
+img:hover{
+border-radius: 140px;
+}
